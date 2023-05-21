@@ -19,8 +19,8 @@ the programming language that I used to create this framework
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Youtube.com]([https://www.youtube.com/watch?v=AxrQje7V65o]))
-* [W3 Schools](https://www.w3schools.com/cpp/cpp_data_types.asp))
+* [Youtube](https://www.youtube.com/watch?v=AxrQje7V65o)
+* [W3 Schools](https://www.w3schools.com/cpp/cpp_data_types.asp)
 
 # Future Work
 
