@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this project I decided to make a game framework using C++
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+The game that I decided to do was a simple snake game since I used this to learn how to make a game framework. And I figured what better way to show off what I learned than by making a simple snake game.
 
-{Describe your purpose for writing this software.}
+The purpose of this project was to test my knowledge on what I know on C++, I figured that since I will be making games using C++ in the future I figured that this would be the perfect way to show off my skills.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
@@ -12,19 +12,19 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used visual studio for this assignment.
 
-{Describe the programming language that you used and any libraries.}
+the programming language that I used to create this framework
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube.com]((https://www.youtube.com/watch?v=AxrQje7V65o))
+* [W3 Schools](https://www.w3schools.com/cpp/cpp_data_types.asp))
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Make a scoreboard
+* add sound effects
+* add better visuals
